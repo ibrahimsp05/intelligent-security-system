@@ -556,6 +556,7 @@ void setup() {
 // LOOP
 // ===================================================
 void loop() {
+  checkForProblems();
   readRFID();
 
   if (buttonPressed()) {
