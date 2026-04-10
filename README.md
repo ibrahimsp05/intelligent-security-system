@@ -124,8 +124,6 @@ user-interface components using multiple communication protocols.
   - OLED status display updates
   - Audible and visual alerts
 
-The firmware is documented in the accompanying project report.
-
 ---
 
 ## 🔧 How to Use
