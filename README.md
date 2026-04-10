@@ -152,8 +152,8 @@ Use, modify, and distribute for educational purposes.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Ibrahim Syawwal Sofian**
+**Ibrahim Syawwal Sofian**  
 **Timeo Ayme**
 ``
